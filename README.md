@@ -4,7 +4,7 @@
 - 🔭 Eu gosto de cultivar hortaliças, brincar com meu filho, com os cães e curtir um bom e velho rock in roll. 
 - 🌱 Tenho formação em engenharia de produção  
 - 👯 Atualmente trabalho no comércio
-- 🤔 Atualmente sou estudande de programação web ministrado pela escola Growdev 
+- 🤔 Sou estudante de programação web ministrado pela escola Growdev 
 - 💬 Sou bem tranquilo, gosto de fazer amigos e curtir um happy hour
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/cl%C3%A1udio-manoel-ferreira-de-paula-b0427144/">LinkedIn</a> e <a href="mailto:claudiomfp1980@gmail.com"> E-mail </a>
 
